@@ -9,9 +9,9 @@ Get the latest version from **[Releases](../../releases/latest)**:
 
 | Your computer | File |
 |---|---|
-| Mac with Apple chip (M1, M2, M3, M4) | `PayLedgerPro-…-mac-arm64.dmg` |
-| Mac with Intel processor | `PayLedgerPro-…-mac-x86_64.dmg` |
-| Windows 10 / 11 | `PayLedgerPro-…-windows-setup.exe` |
+| Mac with Apple chip (M1, M2, M3, M4) | `PayLedgerPro-Mac-AppleChip.dmg` |
+| Mac with Intel processor | `PayLedgerPro-Mac-Intel.dmg` |
+| Windows 10 / 11 | `PayLedgerPro-Windows-Setup.exe` |
 
 The download is free and opens a **full demo with sample data**.
 To use it with your own pay slips, buy a licence at **[navasetu.online/pay-ledger-pro](https://navasetu.online/pay-ledger-pro)**.
