@@ -1,0 +1,18 @@
+PAY LEDGER PRO: INSTALLING ON WINDOWS
+
+1. Double-click the setup file you downloaded.
+
+2. Windows may show a blue box saying "Windows protected your PC".
+   This is because the installer is not signed with a paid certificate.
+   - Click "More info".
+   - Click "Run anyway".
+
+3. Follow the installer. No administrator rights are needed.
+
+4. Pay Ledger Pro opens in your web browser at http://127.0.0.1:8770.
+   It runs only on your computer. Nothing is uploaded anywhere.
+
+5. To open it again, use the Start menu: Pay Ledger Pro.
+   To close it, go to Settings > Quit Pay Ledger Pro.
+
+Your payslip password is kept in Windows Credential Manager, never in a file.
