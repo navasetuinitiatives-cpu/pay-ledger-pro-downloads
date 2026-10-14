@@ -12,7 +12,9 @@ PAY LEDGER PRO: INSTALLING ON WINDOWS
 4. Pay Ledger Pro opens in your web browser at http://127.0.0.1:8770.
    It runs only on your computer. Nothing is uploaded anywhere.
 
-5. To open it again, use the Start menu: Pay Ledger Pro.
-   To close it, go to Settings > Quit Pay Ledger Pro.
+5. While it is running, a Pay Ledger Pro icon sits in the system tray
+   (near the clock; click the ^ arrow if hidden). Click it to open the app,
+   or right-click > Quit to close it.
+   To open it again later, use the Start menu: Pay Ledger Pro.
 
 Your payslip password is kept in Windows Credential Manager, never in a file.

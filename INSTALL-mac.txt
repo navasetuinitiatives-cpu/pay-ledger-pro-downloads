@@ -1,6 +1,8 @@
 PAY LEDGER PRO: INSTALLING ON A MAC
 
-1. Drag "Pay Ledger Pro" into the Applications folder.
+1. Drag "Pay Ledger Pro" into the Applications folder ONCE.
+   (If you drag it twice, macOS makes a second copy called "Pay Ledger Pro 2".
+    Keep one copy only. Move the extra one to the Bin.)
 
 2. The first time only, macOS will say it "cannot verify the developer".
    This is because the app is not registered with Apple's paid developer programme.
@@ -10,9 +12,12 @@ PAY LEDGER PRO: INSTALLING ON A MAC
    - Enter your Mac password if asked, then click "Open Anyway" again.
 
 3. Pay Ledger Pro opens in your web browser at http://127.0.0.1:8770.
+   It has no window of its own: you will see a notification
+   "Pay Ledger Pro is running" and a browser tab. Bookmark the address.
    It runs only on your Mac. Nothing is uploaded anywhere.
 
-4. To open it again later, double-click Pay Ledger Pro in Applications.
+4. To open it again later, double-click Pay Ledger Pro in Applications
+   (or go to http://127.0.0.1:8770 if it is already running).
    To close it, go to Settings > Quit Pay Ledger Pro.
 
 The first time you save your payslip password, macOS may ask to allow
